@@ -1,0 +1,19 @@
+
+
+/***************** ESTILO PARA styledtext.html************************/
+/***************** Autor: Alejandro Barnestein*****************/
+
+
+
+
+
+
+body {background-color: black;
+    color: white;
+    }
+    h2 {color: salmon;}
+    #encabezado1{color: lightyellow;
+    text-align: center;
+    }
+    .centrado{text-align: center;}
+    .centrado b {color: red;}
